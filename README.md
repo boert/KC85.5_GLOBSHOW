@@ -15,7 +15,7 @@ Die Geschwindigkeit der Animation kann mit den Cursortasten (links/rechts) geste
 Das Original ist hier zu finden [^1].
 Angepasst und erweitert für den KC85/5.
 
-Neu: Automatische Modulsuche nach unterstützten RAM-Modulen: 
+Neu: Automatische Modulsuche nach unterstützten RAM-Modulen [^2]: 
 - M011 (64k)
 - M032 (64k)
 - M036 (128k)
@@ -26,4 +26,6 @@ Neu: Automatische Modulsuche nach unterstützten RAM-Modulen:
 ## Referenzen und Links
 [^1]: https://www.iee.et.tu-dresden.de/~kc-club/09/RUBRIK09.HTM  
 
-[^2]: PASMO, Z80 cross assembler [PASMO, Z80 cross assembler](https://pasmo.speccy.org/)  
+[^2]: http://www.mpm-kc85.de/html/ModulListe.htm  
+
+[^3]: [PASMO, Z80 cross assembler](https://pasmo.speccy.org/)  
