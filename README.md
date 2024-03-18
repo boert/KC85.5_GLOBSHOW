@@ -15,12 +15,14 @@ Die Geschwindigkeit der Animation kann mit den Cursortasten (links/rechts) geste
 Das Original ist hier zu finden [^1].
 Angepasst und erweitert für den KC85/5.
 
-Neu: Automatische Modulsuche nach unterstützten RAM-Modulen [^2]: 
+Neu: automatische Modulsuche nach RAM-Modulen [^2]: 
 - M011 (64k)
 - M032 (64k)
 - M036 (128k)
 - M032 (256k)
 - M034 (512k)
+
+Es werden nur RAM-Module unterstützten, die mindestens 64k Speicher mitbringen und die sich auf Adresse 4000h einblenden lassen.
 
 
 ## Referenzen und Links
