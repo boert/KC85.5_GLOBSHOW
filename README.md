@@ -26,4 +26,4 @@ Neu: Automatische Modulsuche nach unterstützten RAM-Modulen:
 ## Referenzen und Links
 [^1]: https://www.iee.et.tu-dresden.de/~kc-club/09/RUBRIK09.HTM  
 
-[^2]: [PASMO, Z80 cross assembler](https://pasmo.speccy.org/)  
+[^2]: PASMO, Z80 cross assembler [PASMO, Z80 cross assembler](https://pasmo.speccy.org/)  
